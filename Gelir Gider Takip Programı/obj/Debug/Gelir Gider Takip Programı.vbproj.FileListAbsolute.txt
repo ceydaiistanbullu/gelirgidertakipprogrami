@@ -1,0 +1,50 @@
+C:\Users\ceyda\Desktop\Gelir Gider Takip Programı\Gelir Gider Takip Programı\bin\Debug\Gelir Gider Takip Programı.exe.config
+C:\Users\ceyda\Desktop\Gelir Gider Takip Programı\Gelir Gider Takip Programı\obj\Debug\Gelir Gider Takip Programı.vbprojResolveAssemblyReference.cache
+C:\Users\ceyda\Desktop\Gelir Gider Takip Programı\Gelir Gider Takip Programı\obj\Debug\Gelir_Gider_Takip_Programı.Form1.resources
+C:\Users\ceyda\Desktop\Gelir Gider Takip Programı\Gelir Gider Takip Programı\obj\Debug\Gelir_Gider_Takip_Programı.MDIParent1.resources
+C:\Users\ceyda\Desktop\Gelir Gider Takip Programı\Gelir Gider Takip Programı\obj\Debug\Gelir_Gider_Takip_Programı.Resources.resources
+C:\Users\ceyda\Desktop\Gelir Gider Takip Programı\Gelir Gider Takip Programı\obj\Debug\Gelir Gider Takip Programı.vbproj.GenerateResource.Cache
+C:\Users\ceyda\Desktop\Gelir Gider Takip Programı\Gelir Gider Takip Programı\obj\Debug\Gelir Gider Takip Programı.xml
+C:\Users\ceyda\Desktop\Gelir Gider Takip Programı\Gelir Gider Takip Programı\bin\Debug\Gelir Gider Takip Programı.exe
+C:\Users\ceyda\Desktop\Gelir Gider Takip Programı\Gelir Gider Takip Programı\bin\Debug\Gelir Gider Takip Programı.pdb
+C:\Users\ceyda\Desktop\Gelir Gider Takip Programı\Gelir Gider Takip Programı\bin\Debug\Gelir Gider Takip Programı.xml
+C:\Users\ceyda\Desktop\Gelir Gider Takip Programı\Gelir Gider Takip Programı\obj\Debug\Gelir Gider Takip Programı.exe
+C:\Users\ceyda\Desktop\Gelir Gider Takip Programı\Gelir Gider Takip Programı\obj\Debug\Gelir Gider Takip Programı.pdb
+C:\Users\ceyda\Desktop\Gelir Gider Takip Programı\Gelir Gider Takip Programı\obj\Debug\Gelir_Gider_Takip_Programı.Gelir_Ekle.resources
+C:\Users\ceyda\Desktop\Gelir Gider Takip Programı\Gelir Gider Takip Programı\obj\Debug\Gelir_Gider_Takip_Programı.GiderEkle.resources
+C:\Users\ceyda\Desktop\Gelir Gider Takip Programı\Gelir Gider Takip Programı\obj\Debug\Gelir_Gider_Takip_Programı.basliklar.resources
+D:\Gelir Gider Takip Programı\Gelir Gider Takip Programı\bin\Debug\Gelir Gider Takip Programı.exe.config
+D:\Gelir Gider Takip Programı\Gelir Gider Takip Programı\obj\Debug\Gelir Gider Takip Programı.exe
+D:\Gelir Gider Takip Programı\Gelir Gider Takip Programı\obj\Debug\Gelir Gider Takip Programı.xml
+D:\Gelir Gider Takip Programı\Gelir Gider Takip Programı\obj\Debug\Gelir Gider Takip Programı.pdb
+D:\Gelir Gider Takip Programı\Gelir Gider Takip Programı\bin\Debug\Gelir Gider Takip Programı.exe
+D:\Gelir Gider Takip Programı\Gelir Gider Takip Programı\bin\Debug\Gelir Gider Takip Programı.pdb
+D:\Gelir Gider Takip Programı\Gelir Gider Takip Programı\bin\Debug\Gelir Gider Takip Programı.xml
+D:\Gelir Gider Takip Programı\Gelir Gider Takip Programı\obj\Debug\Gelir Gider Takip Programı.vbprojResolveAssemblyReference.cache
+D:\Gelir Gider Takip Programı\Gelir Gider Takip Programı\obj\Debug\Gelir_Gider_Takip_Programı.Form1.resources
+D:\Gelir Gider Takip Programı\Gelir Gider Takip Programı\obj\Debug\Gelir_Gider_Takip_Programı.Gelir_Ekle.resources
+D:\Gelir Gider Takip Programı\Gelir Gider Takip Programı\obj\Debug\Gelir_Gider_Takip_Programı.GiderEkle.resources
+D:\Gelir Gider Takip Programı\Gelir Gider Takip Programı\obj\Debug\Gelir_Gider_Takip_Programı.Resources.resources
+D:\Gelir Gider Takip Programı\Gelir Gider Takip Programı\obj\Debug\Gelir Gider Takip Programı.vbproj.GenerateResource.Cache
+D:\Gelir Gider Takip Programı\Gelir Gider Takip Programı\obj\Debug\Gelir_Gider_Takip_Programı.gelirKategori.resources
+D:\Gelir Gider Takip Programı\Gelir Gider Takip Programı\obj\Debug\Gelir_Gider_Takip_Programı.giderKategori.resources
+D:\Gelir Gider Takip Programı\Gelir Gider Takip Programı\obj\Debug\Gelir_Gider_Takip_Programı.gelirRapor.resources
+D:\Gelir Gider Takip Programı\Gelir Gider Takip Programı\obj\Debug\Gelir_Gider_Takip_Programı.giderRapor.resources
+D:\Gelir Gider Takip Programı\Gelir Gider Takip Programı\obj\Debug\Gelir_Gider_Takip_Programı.Login.resources
+D:\Gelir Gider Takip Programı\Gelir Gider Takip Programı\obj\Debug\Gelir_Gider_Takip_Programı.main.resources
+D:\iş ve ödevle ilgili herşey\Gelir Gider Takip Programı\Gelir Gider Takip Programı\obj\Debug\Gelir Gider Takip Programı.vbproj.AssemblyReference.cache
+D:\iş ve ödevle ilgili herşey\Gelir Gider Takip Programı\Gelir Gider Takip Programı\obj\Debug\Gelir_Gider_Takip_Programı.Form1.resources
+D:\iş ve ödevle ilgili herşey\Gelir Gider Takip Programı\Gelir Gider Takip Programı\obj\Debug\Gelir_Gider_Takip_Programı.Gelir_Ekle.resources
+D:\iş ve ödevle ilgili herşey\Gelir Gider Takip Programı\Gelir Gider Takip Programı\obj\Debug\Gelir_Gider_Takip_Programı.gelirKategori.resources
+D:\iş ve ödevle ilgili herşey\Gelir Gider Takip Programı\Gelir Gider Takip Programı\obj\Debug\Gelir_Gider_Takip_Programı.gelirRapor.resources
+D:\iş ve ödevle ilgili herşey\Gelir Gider Takip Programı\Gelir Gider Takip Programı\obj\Debug\Gelir_Gider_Takip_Programı.GiderEkle.resources
+D:\iş ve ödevle ilgili herşey\Gelir Gider Takip Programı\Gelir Gider Takip Programı\obj\Debug\Gelir_Gider_Takip_Programı.giderKategori.resources
+D:\iş ve ödevle ilgili herşey\Gelir Gider Takip Programı\Gelir Gider Takip Programı\obj\Debug\Gelir_Gider_Takip_Programı.giderRapor.resources
+D:\iş ve ödevle ilgili herşey\Gelir Gider Takip Programı\Gelir Gider Takip Programı\obj\Debug\Gelir_Gider_Takip_Programı.Login.resources
+D:\iş ve ödevle ilgili herşey\Gelir Gider Takip Programı\Gelir Gider Takip Programı\obj\Debug\Gelir_Gider_Takip_Programı.main.resources
+D:\iş ve ödevle ilgili herşey\Gelir Gider Takip Programı\Gelir Gider Takip Programı\obj\Debug\Gelir_Gider_Takip_Programı.Resources.resources
+D:\iş ve ödevle ilgili herşey\Gelir Gider Takip Programı\Gelir Gider Takip Programı\obj\Debug\Gelir Gider Takip Programı.vbproj.GenerateResource.cache
+D:\iş ve ödevle ilgili herşey\Gelir Gider Takip Programı\Gelir Gider Takip Programı\obj\Debug\Gelir Gider Takip Programı.vbproj.CoreCompileInputs.cache
+D:\iş ve ödevle ilgili herşey\Gelir Gider Takip Programı\Gelir Gider Takip Programı\obj\Debug\Gelir Gider Takip Programı.exe
+D:\iş ve ödevle ilgili herşey\Gelir Gider Takip Programı\Gelir Gider Takip Programı\obj\Debug\Gelir Gider Takip Programı.xml
+D:\iş ve ödevle ilgili herşey\Gelir Gider Takip Programı\Gelir Gider Takip Programı\obj\Debug\Gelir Gider Takip Programı.pdb
